@@ -20,7 +20,7 @@ Pengfei Chen, Xuehui Yu, Xumeng Han, Najmul Hassan, **Kai Wang**, Jiachen Li, Ji
 
 **Interpretable Visual Reasoning via Induced Symbolic Space**  
 Zhonghao Wang, Mo Yu, **Kai Wang**, Jinjun Xiong, Wen-mei Hwu, Mark Hasegawa-Johnson and Humphrey Shi  
-*International Conference on Computer Vision* **(ICCV 2021)** 
+*International Conference on Computer Vision* **(ICCV 2021)**  
 [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Interpretable_Visual_Reasoning_via_Induced_Symbolic_Space_ICCV_2021_paper.html), [Code](https://github.com/SHI-Labs/Interpretable-Visual-Reasoning)
 
 **The 1st Agriculture-Vision Challenge: Methods and Results**  
