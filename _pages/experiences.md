@@ -16,7 +16,7 @@ Education
 * **University of Minnesota Twin Cities**
   * M.S. in Computer Science, 2020
 * **University of Oregon**
-  * Ph.D. in Computer Science, 2025(expected)
+  * Ph.D. in Computer Science, 2025 (expected)
 
 Professional Experience
 ======
