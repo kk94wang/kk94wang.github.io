@@ -26,7 +26,7 @@ Professional Experience
 * University of Oregon, September 2020 - May 2021
   * Teaching Assistant
 
-* iFlytek Big Data Department, March 2017 - August 2017
+* iFlytek, March 2017 - August 2017
   * Junior Core Algorithm Researcher
 
 Service
