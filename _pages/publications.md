@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style**  
+Haoming Lu, Hazarapet Tunanyan, **Kai Wang**, Shant Navasardyan, Zhangyang Wang and Humphrey Shi  
+*Computer Vision and Pattern Recognition Conference* **(CVPR 2023)**  
+
+**Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**  
+Jiayi Guo, Chaofei Wang, You Wu, Eric Zhang, **Kai Wang**, Xingqian Xu, Shiji Song, Humphrey Shi and Gao Huang  
+*Computer Vision and Pattern Recognition Conference* **(CVPR 2023)**  
 
 **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**  
 Xingqian Xu, Atlas Wang, Eric Zhang, **Kai Wang** and Humphrey Shi  

@@ -13,5 +13,6 @@ Before joining SHI-Labs, I obtained M.S. in Computer Science from University of 
 
 News
 ======
+* Two papers ([Specialist Diffusion](https://openreview.net/pdf?id=-DfuLGNhWQ) & [Image-specific Prompt Learning](https://openreview.net/pdf?id=CXL6Mdst3_)) are accepted to CVPR 2023!
 * We are welcoming participants to [the 4th Agriculture-Vision Challenge](https://www.agriculture-vision.com/) at CVPR 2023. 
 * New [Versatile Diffusion Demo](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion) is available on Hugging Face.
