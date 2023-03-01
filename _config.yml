@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Kai Wang"
 title_separator          : "-"
 name                     : &name "Kai Wang"
 description              : &description "Ph.D. Student at SHI-Labs"
