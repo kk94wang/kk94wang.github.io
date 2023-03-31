@@ -13,6 +13,7 @@ Prior to joining SHI-Labs, I received M.S. in Computer Science from the Universi
 
 News
 ======
+* [May 2021] Check out our new work [Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.17591)! 
 * [Feb 2023] Two papers (Specialist Diffusion & Image-specific Prompt Learning) are accepted to CVPR 2023!
 * [Feb 2023] We are welcoming participants to [the 4th Agriculture-Vision Challenge](https://www.agriculture-vision.com/) at CVPR 2023. 
 * [Jan 2023] New [Versatile Diffusion Demo](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion) is available on Hugging Face.

@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**  
+Eric Zhang<sup>\*</sup>, **Kai Wang**<sup>\*</sup>, Xingqian Xu, Zhangyang Wang and Humphrey Shi  
+[Paper](https://arxiv.org/abs/2303.17591), [Code](https://github.com/SHI-Labs/Forget-Me-Not)  
+
 **Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style**  
 Haoming Lu, Hazarapet Tunanyan, **Kai Wang**, Shant Navasardyan, Zhangyang Wang and Humphrey Shi  
 *Computer Vision and Pattern Recognition Conference* **(CVPR 2023)**  
@@ -33,4 +37,6 @@ Zhonghao Wang, Mo Yu, **Kai Wang**, Jinjun Xiong, Wen-mei Hwu, Mark Hasegawa-Joh
 **The 1st Agriculture-Vision Challenge: Methods and Results**  
 Mang Tik Chiu, Xingqian Xu, **Kai Wang**, Jennifer Hobbs, Naira Hovakimyan, Thomas S Huang and Honghui Shi  
 *Computer Vision and Pattern Recognition Workshops* **(CVPR Workshop 2020)**  
-[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w5/Chiu_The_1st_Agriculture-Vision_Challenge_Methods_and_Results_CVPRW_2020_paper.html), [Code](https://github.com/SHI-Labs/Agriculture-Vision)
+[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w5/Chiu_The_1st_Agriculture-Vision_Challenge_Methods_and_Results_CVPRW_2020_paper.html), [Code](https://github.com/SHI-Labs/Agriculture-Vision)  
+
+<sup>\*</sup>Equal contribution  
