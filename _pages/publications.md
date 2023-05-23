@@ -11,10 +11,12 @@ Eric Zhang<sup>\*</sup>, **Kai Wang**<sup>\*</sup>, Xingqian Xu, Zhangyang Wang 
 **Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style**  
 Haoming Lu, Hazarapet Tunanyan, **Kai Wang**, Shant Navasardyan, Zhangyang Wang and Humphrey Shi  
 *Computer Vision and Pattern Recognition Conference* **(CVPR 2023)**  
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Specialist_Diffusion_Plug-and-Play_Sample-Efficient_Fine-Tuning_of_Text-to-Image_Diffusion_Models_To_CVPR_2023_paper.pdf), [Code](https://github.com/Picsart-AI-Research/Specialist-Diffusion), [Website](https://specialist-diffusion.github.io/)  
 
 **Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**  
 Jiayi Guo, Chaofei Wang, You Wu, Eric Zhang, **Kai Wang**, Xingqian Xu, Shiji Song, Humphrey Shi and Gao Huang  
 *Computer Vision and Pattern Recognition Conference* **(CVPR 2023)**  
+[Paper](https://arxiv.org/pdf/2304.03119.pdf), [Code](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)  
 
 **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**  
 Xingqian Xu, Atlas Wang, Eric Zhang, **Kai Wang** and Humphrey Shi  
