@@ -16,7 +16,10 @@ Education
 * **University of Minnesota Twin Cities**
   * M.S. in Computer Science, 2020
 * **University of Oregon**
-  * Ph.D. in Computer Science, 2025 (expected)
+  * Ph.D. Student in Computer Science, 2023
+* **Georgia Institute of Technology**
+  * Ph.D. in Machine Learning, 2027 (expected)
+
 
 Professional Experience
 ======
@@ -32,6 +35,7 @@ Professional Experience
 Service
 ======
 * Reviewer
+  * ICCV 2023
   * ICML 2022
-  * NeurIPS 2022
-  * ACMMM 2022
+  * NeurIPS 2022, 2023
+  * ACMMM 2022, 2023
