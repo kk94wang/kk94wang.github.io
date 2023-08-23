@@ -18,7 +18,7 @@ Education
 * **University of Oregon**
   * Ph.D. Student in Computer Science, 2023
 * **Georgia Institute of Technology**
-  * Ph.D. in Machine Learning, 2027 (expected)
+  * Ph.D. in Computer Science, 2027 (expected)
 
 
 Professional Experience
