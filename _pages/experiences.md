@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* **University of Science and Technology of China**
-  * B.S. in Physics, 2016
-* **University of Minnesota Twin Cities**
-  * M.S. in Computer Science, 2020
-* **University of Oregon**
-  * Ph.D. Student in Computer Science, 2023
 * **Georgia Institute of Technology**
-  * Ph.D. in Computer Science, 2027 (expected)
+  * Ph.D. in Computer Science, 2027 (expected) 
+* **University of Oregon**
+  * Ph.D. Student in Computer Science, 2023 
+* **University of Minnesota Twin Cities**
+  * M.S. in Computer Science, 2020 
+* **University of Science and Technology of China**
+  * B.S. in Physics, 2016 
 
 
 Professional Experience
