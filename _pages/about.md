@@ -13,6 +13,6 @@ Prior to joining SHI Labs, I received M.S. in Computer Science from the Universi
 
 News
 ======
-* [Jan 2024] We are welcoming participants to [the 5th Agriculture-Vision Workshop](https://www.agriculture-vision.com/) at CVPR 2024. New challenge and dataset are coming soon!
-* [Jul 2023] Move to Atlanta recently and start my new journey at Georgia Tech. Coffee is on me if you are around! 
-* [Mar 2023] Check out our new work [Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.17591)! 
+* [May 2025] I'm interning at [Dolby](https://www.dolby.com/) in Sunnyvale, CA.  
+
+* [Mar 2025] We are welcoming participants to [the 6th Agriculture-Vision Workshop](https://www.agriculture-vision.com/) at CVPR 2025. 
